@@ -1,7 +1,7 @@
 ### Hello!
 
 I'm a graduate student in Electrical Engineering at Federal University of Ceara. Last year I had my first contact with the data science world, and I was fascinated.
-Since then, I've been studying Data Science topics, such as Machine Learning, Statistics and Data Analysis, in order to pursue an internship in this field.
+Since then, I've been studying Data related topics, such as Machine Learning, Statistics and Data Analysis. Right now, I'm a Data Engineer Trainee at <a href="https://www.tenbu.com.br/">Tenbu</a>.
 
 
 
